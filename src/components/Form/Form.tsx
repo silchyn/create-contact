@@ -58,7 +58,6 @@ export default function Form() {
         primaryEmail: email.trim(),
         primaryPhone: phone.trim(),
         companyName: company.trim(),
-        pronouns: 'test',
       };
 
       const actions = [];
